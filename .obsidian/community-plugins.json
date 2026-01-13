@@ -3,5 +3,8 @@
   "file-cleaner-redux",
   "obsidian-image-auto-upload-plugin",
   "oz-clear-unused-images",
-  "obsidian-style-settings"
+  "obsidian-style-settings",
+  "obsidian-git",
+  "global-search-and-replace",
+  "obsidian-regex-replace"
 ]
