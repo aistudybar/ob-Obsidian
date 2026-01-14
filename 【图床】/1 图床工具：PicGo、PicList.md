@@ -1,6 +1,6 @@
 
 ---
-目录：【【【Obsidian总览】】】| 图床
+目录：【【【Obsidian总览】】】| [[8 OB图床]]
 上一页：
 下一页：
 关键词：
@@ -15,7 +15,7 @@
 ## 支持远程URL图片或其它格式的文件（如zip、txt、docx等）！
 ## 支持剪切板内的远程图片URL和base64图片！实测还支持剪切板内的其它格式的文件（如zip、txt、docx等）
 
-![image.png](https://repo.in4cell.com/2026/01/13_1768301108698.png)
+![image.png](https://repo.in4tree.com/2026/01/13_1768301108698.png)
 
 
 ## PicGo 原生支持的图床
@@ -33,7 +33,7 @@ https://github.com/PicGo/Awesome-PicGo
 
 ### 设置自定义域名（方便图床迁移！）
 
-![image.png](https://repo.in4cell.com/2026/01/13_1768301128500.png)
+![image.png](https://repo.in4tree.com/2026/01/13_1768301128500.png)
 
 > 注意：还需要网站设置域名网址的重定向（如`Apache`的 `.htaccess`）> 
 
@@ -61,7 +61,7 @@ PicList是一款高效的云存储和图床平台管理工具，基于PicGo深�
 - **🛠️ 强大的实用工具**：支持上传队列、本地/SFTP 图床、预签名 URL 生成等。
 - **🌐 全平台支持**：支持 Web 端表单上传，并可与移动端 APP **PicHoro** 配合使用。
 
-![image.png](https://repo.in4cell.com/2026/01/13_1768301159255.png)
+![image.png](https://repo.in4tree.com/2026/01/13_1768301159255.png)
 
 
 ## 如何从PicGo迁移
@@ -83,11 +83,11 @@ PicList是一款高效的云存储和图床平台管理工具，基于PicGo深�
 
 ## 设置自定义域名（方便图床迁移！）
 
-![image.png](https://repo.in4cell.com/2026/01/13_1768305238691.png)
+![image.png](https://repo.in4tree.com/2026/01/13_1768305238691.png)
 
 ## 安装插件：扩展支持图床！
 
-![image.png](https://repo.in4cell.com/2026/01/13_1768305158143.png)
+![image.png](https://repo.in4tree.com/2026/01/13_1768305158143.png)
 
 
 ---

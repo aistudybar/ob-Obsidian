@@ -4,32 +4,70 @@
 上一页：
 下一页：
 关键词：
-相关链接：[[8 ？？？OB同步]]
+相关链接：[[9 OB同步]]
 
 ---
  
  > 注意：GitHub 不是**同步服务**！然而，它非常适合**异步协作**。
 
 
+# 创建Github仓库
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348538447.png)
+
+
 # 安装[GitHub Desktop](https://github.com/apps/desktop)
 
+![image.png](https://repo.in4tree.com/2026/01/13_1768348589694.png)
 
-# 安装OB插件：Git
+
+# 克隆Github远程仓库到本地
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348637458.png)
+
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348647407.png)
+
+
+# OB打开本地仓库
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348719701.png)
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348730717.png)
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348747601.png)
+
+# 上传本地笔记
+
+打开Github Desktop，添加描述后，点击Commit后Publish
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348793875.png)
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348808040.png)
+
+
+
+# 安装插件：Git（可实现自动提交）
 Git 的设计初衷并非用于将你的更改实时同步到云端或与他人共享。也就是说，它不适用于与他人实时协作。
 
 https://publish.obsidian.md/git-doc/Installation
 
 > 注意：仅仅安装[GitHub Desktop](https://github.com/apps/desktop)是**不够**的！你还需要安装常规的Git版本。
 
-![image.png](https://repo.in4cell.com/2026/01/13_1768300927055.png)
+![image.png](https://repo.in4tree.com/2026/01/13_1768300927055.png)
 
 # 安装Git
 
 https://git-scm.com/install/windows
 
-![image.png](https://repo.in4cell.com/2026/01/13_1768300954376.png)
+![image.png](https://repo.in4tree.com/2026/01/13_1768300954376.png)
 
-![image.png](https://repo.in4cell.com/2026/01/13_1768300977660.png)
+![image.png](https://repo.in4tree.com/2026/01/13_1768300977660.png)
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348917446.png)
+
+![image.png](https://repo.in4tree.com/2026/01/13_1768348931420.png)
+
 
 
 # OB仓库根目录创建文件：.gitignore
@@ -65,3 +103,8 @@ https://publish.obsidian.md/git-doc/Tips-and-Tricks#Usage+with+Obsidian+Sync
 ## 使用 Git 插件，但不要用它来拉取文件！
 
 另一种使用场景是，您可能不想在拉取操作时更新文件，因为 Obsidian Sync 已经更新了您的文件。您仍然可以进行提交/推送/提交并同步操作。要实现这一点，请在“拉取”操作下，将“合并策略”设置为“其他同步服务”。这样，在拉取操作时，只会将 HEAD 更新到最新的提交，而不会更改您的文件。
+
+---
+# 【参考】
+
+[！Obsidian邪修用法，免费云同步（Github），AI，手机端，还有进阶技巧](https://www.notion.so/Obsidian-Github-AI-2e0bda5c56f380b5bb9be9e40a0aaeab#2e0bda5c56f380cca7f1c0f4cdc256a5)
