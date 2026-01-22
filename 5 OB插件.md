@@ -7,3 +7,10 @@
 相关链接：[[102 ？？？常用插件]]
 
 ---
+
+# 【OB AI 插件】
+
+## Copilot
+
+
+## Text Generator
